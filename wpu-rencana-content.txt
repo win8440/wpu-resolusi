@@ -35,3 +35,4 @@ RENCANA KONTEN WPU
 - Odoo
 - Aplikasi android
 - Sertifikat SSL
+- Kalo bisa diakhir vidio ditambahin note sama di kasih tugas
